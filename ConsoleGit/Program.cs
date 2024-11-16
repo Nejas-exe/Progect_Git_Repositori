@@ -10,6 +10,8 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
+            // Задача 1
+            // Задача 2
         }
     }
 }
