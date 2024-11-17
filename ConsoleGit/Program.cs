@@ -11,6 +11,8 @@ namespace ConsoleGit
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
+            // изменения не в той ветке!
+            // измененния 1
         }
     }
 }
