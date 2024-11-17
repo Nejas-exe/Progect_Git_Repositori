@@ -8,7 +8,6 @@ namespace ConsoleGit
 {
     internal class Books
     {
-        // 1234
-        // 1234
+        
     }
 }

@@ -10,9 +10,7 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
-            // Задача 1
-            // Задача 2
-            // Задача 3
+            Console.WriteLine("Привет");
         }
     }
 }
